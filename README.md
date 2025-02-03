@@ -13,16 +13,19 @@ ______________________________
 ### telegram_bot  
 бот в телеграм для игры в qwiz (викторина вопрос-ответ)
 [**Ссылка на проект**](https://github.com/d-synchikov/telegram_bot/)
+
 **Стек** Python, asyncio, aiogram
 
 ### audio-noised_audio-recognition
 Инструмент для исследования влияния шума на распознование аудио. Позволяет переводить аудио в текст, а так же показывает влияние шума на качество распознавания.
 [**Ссылка на проект**](https://github.com/d-synchikov/noise_audio/)
+
 **Стек** Python, SpeechRecognition, Google Text-to-Speech (gTTS), jiwer, matplotlib, numpy, requests.
 
 ### my_app
 Приложение для создания и редактирования списка задач. Приложение написано на языке Dart с использованием фреймворка Flutter. Код написан при помощи нейросети anthropic/claude-3-haiku через расширение для VSCode CLINE
 [**Ссылка на проект**](https://github.com/d-synchikov/my_app)
+
 **Стек** Dart, Flutter, CLINE
 
 **Моя цель** — перейти на позицию разработчика Phyton, получить опыт разработки, навыки создания ПО, применять имеющиеся знания как в составе команды, так и самостоятеьно.
