@@ -3,7 +3,7 @@ ______________________________
 
 
 
-👨‍🎓 Учусь в академии нейросетей [The Founder](https://academy.the-founder.ru/)     
+👨‍🎓 Закончил курс академии нейросетей [The Founder](https://academy.the-founder.ru/)     
 📞 Вы можете связаться со мной по TG: [@It_admn](https://t.me/It_admn)  или по e-mail [d_synchikov@mail.ru](mailto:d_synchikov@mail.ru)
 
 **Обо мне**
@@ -11,7 +11,7 @@ ______________________________
 
 ## Проекты
 ### telegram_bot  
-бот в телеграм для игры в qwiz (викторина вопрос-ответ)
+бот в телеграм для игры в quiz (викторина вопрос-ответ)
 [**Ссылка на проект**](https://github.com/d-synchikov/telegram_bot/)
 
 **Стек:** Python, asyncio, aiogram
